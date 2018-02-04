@@ -1,0 +1,7 @@
+Data travels through the internet in what is called packets. Around each package is a wrapper which lets the computer know what kind of information or data is in the packet. The packet is broken up into different parts when sent out, where the receiving end puts them all back together to make the message.
+
+The DNS is an address people type into the web browser to get to that specific website. The domain will then point you to the real address, this real address is the IP address which consists of numbers. In turn that IP address will then point to the location on the server that contains the website.
+
+A cookie is a small piece of data sent from a website and stored on the user's computer by the user's web browser. This was to help the user record/ remember a shopping list item online, card numbers, etc and records the users browsers activity.
+
+The three basic parts to a URL are the protocol, domain name and its path.
