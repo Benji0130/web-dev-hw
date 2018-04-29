@@ -25,4 +25,4 @@ my page. However, using the instructions as a guide helped out alot, this allowe
 me to at least get the basics for typography on a website. In this assignment we
 learned how to set up a webpage with specific typography to give the page character.
 
-![screenshot](./images/Screenshot.png)
+![sceenshot](./images/Screenshot.png)
